@@ -1,1 +1,1 @@
-Simple database management program with GUI made with Tkinter.
+Simple database editor with GUI made with Tkinter.
